@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "162628817985",
+    "firebase_url": "https://restautantapp-74409-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "restautantapp-74409",
+    "storage_bucket": "restautantapp-74409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162628817985:android:3a387c23dccad59b2622c0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_objects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Oqgx45Ay0zKRxDhYftRg8y7erplzCgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162628817985:android:02e961d181386e122622c0",
+        "android_client_info": {
+          "package_name": "com.example.restaurantfoods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Oqgx45Ay0zKRxDhYftRg8y7erplzCgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
